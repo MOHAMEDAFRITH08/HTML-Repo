@@ -1,0 +1,93 @@
+.Task_One{
+    background-color: aquamarine;
+    width: 800px;
+}
+.Task_Sec{
+   
+    background-color: aqua;
+    width: 800px;
+
+}
+.Sec_sub{
+   margin-left: 50px;
+   margin-right: 50px;
+   border: solid black 4px;
+   
+} 
+
+#dd{
+    width: 30px;
+}
+#dt{
+    width: 350px;
+}
+.Task_Thir{
+    width: 800px;
+    background-color: blanchedalmond;
+    margin-left: 8px    ;
+}
+#Id{
+    width: 700px   ;
+    height: 20px;
+}
+#Df{
+   width: 700px;
+   height: 130px;
+
+}
+#pd{
+    width: 700px;
+    background-color: green;
+    align-self: auto 0;
+}
+#gg{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.Task_Four{
+    background-color: brown;
+    align-items: center;
+    width: 810px;
+}
+.Task_Five{
+    background-color:red;
+    align-items: center;
+    width: 710px;
+   /* border: 600px; */
+}
+#ter{
+    color: aliceblue;
+}
+#terr{
+    width: 250px;
+}
+#tf{
+    width: 350px;
+}
+#thi{
+    color: aliceblue;
+}
+#th{
+    margin-left: 350px;
+}
+#su{
+    color: blue;
+}
+#reg{
+    width: 300px;
+    height: 30px;
+    
+}
+
+#debug{
+    width: 400px;
+}
+#uu{
+    border: dotted;
+    margin-left: 55px;
+    margin-right: 20px;
+}
+#txt{
+    width: 250px;
+    height: 100px;
+}
